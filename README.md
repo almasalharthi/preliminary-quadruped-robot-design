@@ -1,5 +1,8 @@
 Quadruped Robot - Preliminary Mechanical Design
+
+
 📌 Overview
+
 This project presents the preliminary mechanical design of a simple quadruped (four-legged) robot. The main objective is to understand the basic mechanical principles required to build a stable walking robot rather than developing a fully functional robotic system.
 
 🎯 Objectives
